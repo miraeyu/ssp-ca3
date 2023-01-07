@@ -3,57 +3,57 @@
   <category name="Spring">
     <city>
       <month>March</month>
-      <listing> </listing>
+      <listing>Malaga</listing>
     </city>
     <city>
       <month>April</month>
-      <listing>3.50</listing>
+      <listing>Paris</listing>
     </city>
     <city>
     <motn>May</month>
-      <listing>3.20</listing>
+      <listing>Amsterdam</listing>
     </city>
   </category>
   <category name="Summer">
     <city>
       <month>June</month>
-      <listing>4.50</listing>
+      <listing>Milan</listing>
     </city>
     <city>
       <month>July</month>
-      <listing>5.00</listing>
+      <listing>Berlin</listing>
     </city>
     <city>
       <month>Agust</month>
-      <listing>5.00</listing>
+      <listing>Nice</listing>
     </city>
   </category>
   <category name="Autumn">
     <city>
       <month>September</month>
-      <listing>5.00</listing>
+      <listing>Barcelona</listing>
     </city>
     <city>
       <month>October</month>
-      <listing>5.00</listing>
+      <listing>Porto</listing>
     </city>
     <city>
       <month>November</month>
-      <listing>5.00</listing>
+      <listing>Casablanca</listing>
     </city>
   </category>
   <category name="Winter">
     <city>
       <month>December</month>
-      <listing>5.00</listing>
+      <listing>Helsinki</listing>
     </city>
     <city>
       <month>January</month>
-      <listing>5.00</listing>
+      <listing>Warsawa</listing>
     </city>
     <city>
       <month>Febuary</month>
-      <listing>5.00</listing>
+      <listing>Liverpool</listing>
     </city>
   </category>
 </menu>

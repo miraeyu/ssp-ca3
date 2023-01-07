@@ -4,9 +4,9 @@
 		<table id="menuTable" border="1" class="indent">
 			<thead>
 				<tr>
-					<th>Select</th>
-					<th>Item</th>
-					<th>Price</th>
+					<th>Season</th>
+					<th>Month</th>
+					<th>City</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -18,17 +18,15 @@
 					</tr>
 					<xsl:for-each select="item">
 						<tr id="{position()}">
-							<xsl:attribute name="decaf">
-								<xsl:value-of select="boolean(@decaf)" />
 							</xsl:attribute>
 							<td align="center">
 								<input name="item0" type="checkbox" />
 							</td>
 							<td>
-								<xsl:value-of select="listing" />
+								<xsl:value-of select="month" />
 							</td>
 							<td align="right">
-								<xsl:value-of select="price" />
+								<xsl:value-of select="listing" />
 							</td>
 						</tr>
 					</xsl:for-each>
